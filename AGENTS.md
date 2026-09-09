@@ -17,7 +17,7 @@ index.html
 README.md
 ```
 
-**Git:** branch: `main` | last commit: 2026-09-08 | 1 uncommitted | remote: https://github.com/ninjalu/smart-pig.git
+**Git:** branch: `main` | last commit: 2026-09-09 | 1 uncommitted | remote: https://github.com/ninjalu/smart-pig.git
 
 ## AI-agent bridge (Codex / open-source)
 
@@ -31,6 +31,6 @@ Facts available:
 
 ### Full protocol + skills catalog
 See the global bridge at `/Users/luluo/AGENTS.md` for the memory read/write protocol,
-the catalog of all 23 skills, and how to invoke them.
+the catalog of all 24 skills, and how to invoke them.
 
 <!-- END build-bridge -->
