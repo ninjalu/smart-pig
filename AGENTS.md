@@ -17,7 +17,7 @@ index.html
 README.md
 ```
 
-**Git:** branch: `main` | last commit: 2026-10-25 | 1 uncommitted | remote: https://github.com/ninjalu/smart-pig.git
+**Git:** branch: `main` | last commit: 2026-10-26 | 1 uncommitted | remote: https://github.com/ninjalu/smart-pig.git
 
 ## AI-agent bridge (Codex / open-source)
 
